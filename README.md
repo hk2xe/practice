@@ -21,7 +21,7 @@ cd practice
 
 Скачайте файл по ссылке:
 
-[Скачать](https://objects.githubusercontent.com/github-production-release-asset-2e65be/971907222/d71c830b-f729-47a0-80fc-8b820bc134aa?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250424%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250424T084850Z&X-Amz-Expires=300&X-Amz-Signature=d7c3f687527473cb2061de01f301298d2a882308826a84943183ce41d8d2ca16&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dmain.py&response-content-type=application%2Foctet-stream)
+[Скачать]([https://github.com/hk2xe/practice/releases/download/release/main.py))
 
 Затем перейдите в папку с файлом:
 
