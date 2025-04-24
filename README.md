@@ -21,7 +21,7 @@ cd practice
 
 Скачайте файл по ссылке:
 
-[Скачать]([https://github.com/hk2xe/practice/releases/download/release/main.py))
+[Скачать](https://github.com/hk2xe/practice/releases/download/release/main.py)
 
 Затем перейдите в папку с файлом:
 
